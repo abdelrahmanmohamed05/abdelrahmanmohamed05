@@ -1,12 +1,12 @@
-<h1 align="center">Hello, I'm Abdelrahmen Elashry</h1>
-<h3 align="center">Data Analyst | AI & ML Enthusiast | Mathematician</h3>
+<h1 align="center">Hello, I'm Abdelrahman Mohamed 👋</h1>
+<h3 align="center">Aspiring Data Scientist | Machine Learning & Generative AI Enthusiast</h3>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahmen-Elashry&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Abdelrahmen-Elashry)
-[![GitHub Followers](https://img.shields.io/github/followers/Abdelrahmen-Elashry?style=social)](https://github.com/Abdelrahmen-Elashry)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahmen-elashry)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:abdelrahmenelashry@email.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdelrahmanmohamed05&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/abdelrahmanmohamed05)
+[![GitHub Followers](https://img.shields.io/github/followers/abdelrahmanmohamed05?style=social)](https://github.com/abdelrahmanmohamed05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmannmohamed/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:abdelrahmannmohamed05@gmail.com)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="left">
 
-## 🧑‍💻 About Me  
+## 🧑‍💻 About Me
 
 </div>
 
@@ -25,15 +25,15 @@
 ###
 
 <div align="left">
-  
-  I’m a Junior Data Analyst passionate about **Data Science, Machine Learning, and Artificial Intelligence**, with the ambition to grow into a **Data Scientist**.  
-  With a strong enthusiasm for **Mathematics, Statistics, and Computer Science**, I enjoy unlocking the power of data to deliver meaningful insights.  
-  
-  
-  - 🔭 **Currently working on:** Dashboards & ML-driven insights  
-  - 🌱 **Currently learning:** Agentic AI & MLOps  
-  - 💼 **Open to:** Data Analysis, Science roles & collaborations  
-  - 📫 **Reach me at:** abdelrahmenelashry@email.com 
+
+I'm a Computer Science student at Ain Shams University and an aspiring **Data Scientist / Machine Learning Engineer**, with a strong focus on problem solving, algorithms, and building intelligent, data-driven solutions.
+
+I'm actively developing skills across **Data Analysis, Machine Learning, Deep Learning, and Generative AI**, and I'm currently gaining hands-on experience through internships at **CIB**, **FlyRank AI**, and **DEPI** (Microsoft ML Engineer track).
+
+- 🔭 **Currently working on:** AI-powered support ticket classification & response systems
+- 🌱 **Currently learning:** Generative AI, RAG, and applied MLOps
+- 💼 **Open to:** Data Science / Machine Learning roles & collaborations (full-time or part-time)
+- 📫 **Reach me at:** abdelrahmannmohamed05@gmail.com
 
 </div>
 
@@ -41,24 +41,26 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Programming & Web
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-### Data Science & ML
+### Data Science, ML & Deep Learning
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
@@ -69,35 +71,58 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="keras logo"  />
 </div>
 
-### Tools & Technologies
+### Databases, Tools & Platforms
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+- **[AI-Powered Intelligent Support Ticket Classification & Response System](https://github.com/abdelrahmanmohamed05)** — Full-stack AI system (Next.js, FastAPI, ML) for automatic ticket categorization, priority assignment, and AI-assisted response generation, with a modern SaaS-style dashboard.
+- **Heart Disease Prediction** — Data preprocessing, PCA-based dimensionality reduction, and supervised/unsupervised models deployed with an interactive Streamlit UI.
+- **Movie Recommendation System** — Collaborative filtering (item-based) using a user-item matrix, evaluated with Precision at K.
+- **Student Score Prediction** — Linear and polynomial regression models comparing performance on exam-score prediction.
+- **Car Rental System** — Relational database in Oracle SQL/PL-SQL with normalized tables and ER diagrams for a full booking/rental workflow.
+
+---
+
+## 📜 Certifications
+
+- AWS AI Practitioner Challenge – Udacity
+- Data Scientist in Python – DataCamp
+- Associate Data Scientist in Python – DataCamp
+- Machine Learning Internship – National Telecommunication Institute
+- AI and Machine Learning Summer Camp – Sprints x Microsoft
+- Accelerating End-to-End Data Science Workflows – NVIDIA
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahmen-Elashry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://streak-stats.demolab.com?user=Abdelrahmen-Elashry&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahmen-Elashry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanmohamed05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+<img src="https://streak-stats.demolab.com?user=abdelrahmanmohamed05&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanmohamed05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
 </div>
 
-![Snake Animation](https://github.com/Abdelrahmen-Elashry/Abdelrahmen-Elashry/blob/output/snake-dark.svg)
+![Snake Animation](https://github.com/abdelrahmanmohamed05/abdelrahmanmohamed05/blob/output/snake-dark.svg)
