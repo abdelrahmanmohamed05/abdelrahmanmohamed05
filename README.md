@@ -101,9 +101,9 @@ I'm actively developing skills across **Data Analysis, Machine Learning, Deep Le
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanmohamed05&show_icons=true&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+<img src="https://github-stats-extended.vercel.app/api?username=abdelrahmanmohamed05&show_icons=true&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
 <img src="https://streak-stats.demolab.com?user=abdelrahmanmohamed05&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanmohamed05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=abdelrahmanmohamed05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
 </div>
 
