@@ -30,7 +30,7 @@ I'm a senior Computer Science student at Ain Shams University and a **Data Scien
 
 I work across **Data Analysis, Machine Learning, Deep Learning, and Generative AI**, with hands-on experience from internships at **FlyRank AI**, **CIB**, **DEPI** (Microsoft ML Engineer track), and **NTI**. I also teach AI and data science as a Technical Instructor at the IEEE El Shorouk Academy Student Branch.
 
-- 🔭 **Currently working on:** Multi-agent AI systems and RAG-based document intelligence
+- 🔭 **Currently working on:** My graduation project — a **Smart Motor Monitoring & Predictive Maintenance System** (Edge IoT + ML + 3D Digital Twin)
 - 🌱 **Currently learning:** Agentic AI (LangGraph), advanced RAG, and applied MLOps
 - 🎓 **Currently teaching:** AI & data science workshops at IEEE El Shorouk Academy
 - 💼 **Open to:** Data Science / Machine Learning / AI Engineering roles & collaborations (full-time or part-time)
@@ -92,12 +92,26 @@ I work across **Data Analysis, Machine Learning, Deep Learning, and Generative A
 
 </div>
 
+### IoT, Edge & Real-Time Systems
+<div align="left">
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/C%2B%2B%20%2F%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT%20Mosquitto-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-FF0051?style=for-the-badge)
+
+</div>
+
 ### Databases, Tools & Platforms
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32" alt="aws logo" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />&nbsp;&nbsp;
@@ -108,6 +122,7 @@ I work across **Data Analysis, Machine Learning, Deep Learning, and Generative A
 
 ## 🚀 Featured Projects
 
+- **[Smart Motor Monitoring & Predictive Maintenance System](https://github.com/abdelrahmanmohamed05)** *(Graduation Project — Faculty of Computer and Information Sciences, Ain Shams University)* — End-to-end predictive maintenance platform combining edge sensing, machine learning, and a live 3D digital twin. An ESP32 samples 3-axis vibration (MPU-6050), temperature (DS18B20) and current (ACS712) and streams them over MQTT with sub-second latency into InfluxDB/PostgreSQL. A multi-stage AI pipeline runs anomaly detection (Autoencoder), fault classification (1D-CNN/XGBoost) and Remaining Useful Life estimation (LSTM), with SHAP-based root-cause attribution highlighted on an interactive Three.js motor model. A Next.js dashboard adds 0–100% health scores, RBAC, email alerts, PDF/CSV reports, ROI estimation and a LangGraph AI repair assistant. *(ESP32 · MQTT · FastAPI · PyTorch · XGBoost · SHAP · Next.js · Three.js · LangGraph · Docker)*
 - **[AI Multi-Agent Document Intelligence System](https://github.com/abdelrahmanmohamed05)** — Multi-agent platform orchestrating 12 specialized LangGraph agents (Planner, Orchestrator, RAG, Summary, Analytics, Compare, Quiz, Entity, Report, Email, Reflection) to ingest, index, and query PDF, DOCX, TXT, CSV, and Excel files. Uses a persistent FAISS vector store with sentence-transformers embeddings for citation-backed Q&A, plus a React 18 + TailwindCSS frontend with JWT auth, execution-trace visualization, analytics dashboards, and PDF report export, containerized with Docker Compose. *(FastAPI · React · LangGraph · FAISS · Docker)*
 - **[AI-Powered Intelligent Support Ticket Classification & Response System](https://github.com/abdelrahmanmohamed05)** — Full-stack AI system for automatic ticket categorization, priority assignment, and AI-assisted troubleshooting responses, with dynamic model discovery, automatic best-model selection, and a SaaS-style dashboard. *(Next.js · FastAPI · ML · TypeScript · shadcn/ui · Framer Motion)*
 - **Heart Disease Prediction** — Data preprocessing, PCA-based dimensionality reduction, feature selection, and supervised/unsupervised models with hyperparameter tuning, deployed with an interactive Streamlit UI. *(Python · Streamlit)*
